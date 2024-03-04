@@ -1,9 +1,0 @@
-LICENSE
-setup.py
-tracer_calc/__init__.py
-tracer_calc/tracer_calc.py
-tracer_calc.egg-info/PKG-INFO
-tracer_calc.egg-info/SOURCES.txt
-tracer_calc.egg-info/dependency_links.txt
-tracer_calc.egg-info/requires.txt
-tracer_calc.egg-info/top_level.txt
