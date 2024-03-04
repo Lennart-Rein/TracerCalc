@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['matplotlib', 'math'],
+    install_requires=['matplotlib'],
     keywords=['python', 'tracer', 'groundwater', 'water', 'mass', "model"],
     classifiers=[
         "Development Status :: 1 - Planning",
