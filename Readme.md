@@ -1,5 +1,8 @@
 # TracerCalc
-  
+
+![Example Plot](FrontImage.png)
+
+### Table of Contents
 1. About
 2. Usage
 3. Future Plans
